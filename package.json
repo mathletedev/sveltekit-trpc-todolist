@@ -13,7 +13,11 @@
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-json": "^6.0.0",
     "@rollup/plugin-node-resolve": "^15.0.1",
-    "rollup": "^3.7.5"
+    "@trpc/client": "^10.7.0",
+    "@trpc/server": "^10.7.0",
+    "delay": "^5.0.0",
+    "rollup": "^3.7.5",
+    "trpc-sveltekit": "^3.2.3"
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "next",
